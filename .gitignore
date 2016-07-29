@@ -1,0 +1,5 @@
+accessCollect
+accessCollect.exe
+accessCollect.pid
+jstmp/*
+/.idea
